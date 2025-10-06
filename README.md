@@ -20,13 +20,6 @@ Whether you're a beginner or just exploring, feel free to explore each project a
 
 ## 🎯 Why I'm Doing This
 
-- 📚 **To sharpen Python skills** for future AI/ML and automation development  
-- 🧱 **To build a strong portfolio** with 100+ real-world projects  
-- 💼 **To impress future employers & recruiters** with consistency  
-- ⚙️ **To strengthen problem-solving** and logical thinking skills  
-- 🧠 **To build the habit** of learning and coding every day
-
----
 
 ## 📁 Folder Structure
 
@@ -41,37 +34,7 @@ Each folder inside this repo will look like:
 
 ---
 
-Every folder will have:
-- ✅ Clean & well-commented code
-- 📄 Short description in `README.md` (optional if needed)
-- 💡 Simple explanation or usage guide
 
----
-
-## 💡 Inspiration
-
-This challenge is more than just code — it's about discipline, growth, and becoming unstoppable.
-
-- 🧠 Strengthen my problem-solving and logical thinking
-- 🔁 Build the habit of coding every single day
-- 🤖 Lay the foundation for AI, automation, and ML projects
-- 🎯 Prove to myself (and recruiters) what focused effort can achieve
-> "You don't need to be great to start. But you need to start to become great."
-This repo is my public proof-of-work — a commitment to growth, learning, and building something awesome every day.
-
----
-
-## 🌟 Give This Repo a Star!
-
-If you find this repo helpful, inspiring, or just want to support my journey,  
-please consider giving it a ⭐ — it means a lot!
-
----
-
-## 🚀 Connect with Me
-
-- 🐙 [GitHub](https://github.com/chiragdhawan07)
-- 🐦 [Twitter (X)](https://twitter.com/chiragdhawan07)
 
 ---
 
